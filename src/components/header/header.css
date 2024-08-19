@@ -11,14 +11,13 @@
     font-weight: 500;
     font-family: Poppins;
     padding-top: 18px;
+    text-decoration: none;
 
 }
 .menu_ul{
     column-gap: 42px !important;
 }
-.menu_ul:last-child{
-    color: red !important;
-}
+
 .menu_contact{
     border: 1px solid hsla(225, 57%, 97%, 0.21);
     padding: 16px 48px !important;
