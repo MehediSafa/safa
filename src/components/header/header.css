@@ -1,0 +1,26 @@
+.menu{
+    background-color: #1C1E53 !important;
+    position: absolute;
+    left: 0 !important;
+    top: 0px !important;
+    width: 100%;
+}
+.menu a{
+    color: white !important;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Poppins;
+    padding-top: 18px;
+
+}
+.menu_ul{
+    column-gap: 42px !important;
+}
+.menu_ul:last-child{
+    color: red !important;
+}
+.menu_contact{
+    border: 1px solid hsla(225, 57%, 97%, 0.21);
+    padding: 16px 48px !important;
+    border-radius: 41px !important;
+}

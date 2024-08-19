@@ -1,0 +1,49 @@
+.home_banner{
+    background-color: #1C1E53;
+}
+.banner_left{
+    padding-top: 126px;
+    
+}
+
+.banner_left .banner_left_h{
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
+.banner_left .item{
+    background-color: #1C1E53;
+    border: none;
+}
+.banner_left h3{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    padding-bottom: 48px;
+}
+.banner_left a{
+    text-decoration: none;
+}
+.card_links{
+    padding-bottom: 126px;
+}
+.card_links a{
+    color: #FFFFFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 16px 36px;
+    border: 1px solid transparent;
+    border-radius: 41px;
+
+}
+.card_links a:hover{
+    color: #1B1C2B;
+    background-color: #FCD980;
+}
+.banner_right{
+    padding-top: 149px;
+}

@@ -1,0 +1,26 @@
+.item{
+    border: none;
+}
+.item .card{
+    --bs-card-border-width: none;
+    --bs-card-spacer-y: 0 !important;
+    -bs-card-spacer-x: 0 !important;
+    padding-left: 50px;
+    
+}
+.item img{
+    height: 52px;
+    width: 27px;
+    margin-top: 50px;
+    padding-bottom: 22px;
+}
+.item h5{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 24px;
+    padding-bottom: 12px;
+}
+.card-body
+{
+    --bs-card-spacer-x: 0;
+}

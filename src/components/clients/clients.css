@@ -1,0 +1,28 @@
+.clients_left h2{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 38px;
+    color: #282938;
+    padding-top: 130px;
+    padding-bottom: 16px;
+}
+.clients_right{
+    padding-top: 130px;
+}
+.clients_right_bottom{
+    display: flex;
+}
+.image{
+    padding-top: 50px;
+}
+.names h2{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 48px;
+}
+.names h3{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 12px;
+}

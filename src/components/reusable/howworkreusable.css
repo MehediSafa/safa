@@ -1,0 +1,28 @@
+.howwork_right{
+    padding-top: 128px;
+}
+.item{
+    border: none;
+    margin-bottom: 76px;
+    background-color: #F4F6FC;
+}
+.item img{
+    
+    width: 50px;
+    padding-bottom: 16px;
+}
+.item h2{
+    --bs-card-spacer-x: 0 !important;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 32px;
+    color: #282938;
+    padding-bottom: 8px;
+}
+.item p{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #282938;
+    padding-bottom: 50px;
+}

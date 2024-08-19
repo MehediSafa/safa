@@ -1,0 +1,22 @@
+.features_main{
+    background-color: #F4F6FC;
+}
+
+.features_header{
+    text-align: center;
+}
+.features_header h2{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 16px;
+    color: #282938;
+    padding-bottom: 12px;
+    padding-top: 128px;
+    text-align: center;
+}
+.features_header h3{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 48px;
+    color: #282938;
+}

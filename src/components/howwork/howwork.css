@@ -1,0 +1,33 @@
+.howwork_main{
+    background-color: #F4F6FC;
+}
+.howwork_main .item{
+    background-color: #F4F6FC;
+    border: none;
+}
+.howwork_left .item{
+    margin-top: 128px;
+    border: none;
+}
+.howwork_left .item h2{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 48px;
+    color: #000;
+    padding-bottom: 16px;
+}
+.howwork_left .item h3{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #282938;
+    padding-bottom: 16px;
+}
+.howwork_left .item a{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 18px;
+    color: #2405F2;
+    padding-bottom: 16px;
+    text-decoration: none;
+}
